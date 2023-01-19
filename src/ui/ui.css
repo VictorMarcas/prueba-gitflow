@@ -3,4 +3,5 @@ body {
     color: var(--figma-color-text);
     padding: 24px;
     font-size: 13px;
+    background-position: center center;
 }
